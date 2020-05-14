@@ -1,0 +1,129 @@
+{
+    "LoaderWindow": {
+        "Title": {
+            "Text": "Synapse X - Loader",
+            "Foreground": "White"
+        },
+        "Logo":{
+            "Source": "https://i.imgur.com/Tp8Uuym.png"
+        },
+        "Loader": {
+            "Background": "#003C3C3C",
+            "Text": "Initializing...",
+            "Foreground": "White"
+        },
+        "Header": {
+            "Background": "#FF3C3C3C"
+        },
+        "Main": {
+            "ImagePath": "",
+            "Background": "#FF333333"
+        }
+    },
+    "MainWindow":{
+        "Title":{
+            "Text": "Synapse X - v2.1.7",
+            "Foreground": "White"
+        },
+        "Logo":{
+            "Source": "https://i.imgur.com/Tp8Uuym.png"
+        },
+        "Header":{
+            "Background": "#FF3C3C3C"
+        },
+        "Main":{
+            "ImagePath": "",
+            "Background": "#FF333333"
+        },
+        "ScriptBox":{
+            "Foreground": "White",
+            "Background": "#FF3C3C3C"
+            },
+        "MainButtons":{
+                "MinimizeButton":{
+                    "Foreground": "White",
+                    "Background": "Transparent"
+                },
+                "ExitButton":{
+                    "Foreground": "White",
+                    "Background": "Transparent"
+                },
+                "AttachButton":{
+                    "Text": "Attach",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "ExecuteButton":{
+                    "Text": "Execute",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "ClearButton":{
+                    "Text": "Clear",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "OpenFileButton":{
+                    "Text": "Open File",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "ExecuteFileButton":{
+                    "Text": "Execute File",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "SaveFileButton":{
+                    "Text": "Save File",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "OptionsButton":{
+                    "Text": "Options",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "ScriptHubButton":{
+                    "Text": "Script Hub",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                }
+            }
+        },
+        "ScriptHubWindow":{
+            "Title":{
+                "Text": "Synapse X - Script Hub",
+                "Foreground": "White"
+            },
+            "Logo":{
+                "Source": "https://i.imgur.com/Tp8Uuym.png"
+            },
+            "Header":{
+                "Background": "#FF3C3C3C"
+            },
+            "Main":{
+                "ImagePath": "",
+                "Background": "#FF333333"
+            },
+            "ScriptBox":{
+                "Foreground": "White",
+                "Background": "#FF3C3C3C"
+            },
+            "DescriptionBox":{
+                "Foreground": "White",
+                "Background": "#FF3C3C3C"
+            },
+            "MainButtons":{
+                "CloseButton":{
+                    "Text": "Close",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                },
+                "ExecuteButton":{
+                    "Text": "Execute",
+                    "Foreground": "White",
+                    "Background": "#FF3C3C3C"
+                }
+            }
+        }
+    }

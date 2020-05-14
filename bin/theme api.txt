@@ -1,0 +1,22 @@
+source and size:
+synapse x remake logo source: https://i.imgur.com/Tp8Uuym.png
+synapse x remake monaco size: height 272, width 658
+
+colors:
+Header Background Color - "#FF3C3C3C"
+UI Background Color - "#FF333333"
+Controls Background Color - "#FF3C3C3C"
+Foreground Color - "White"
+
+tools:
+https://www.photopea.com/
+https://htmlcolorcodes.com/
+https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4
+https://ezgif.com/resize
+
+theme template:
+synapse x remake > bin > theme template
+
+file locations:
+synapse x remake > bin > monaco.html
+synapse x remake > bin > theme-wpf.json
